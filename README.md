@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me NaN
 - 😄 Pronouns: HeHeHe
-- ⚡ Fun fact: Veryy Punny
+- ⚡ Fun fact: Very Punny & Master Procrastinator
 
 <!---
 Stup702/Stup702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
