@@ -14,7 +14,7 @@
 * [Memu8086](https://github.com/Stup702/Memu8086) — Modern Intel 8086 CPU Emulator, Assembler & Qt6 IDE in C++17.
 * [Look-Ma-No-Keyboard](https://github.com/Stup702/Look-Ma-No-Keyboard) — Ultra-low latency Linux kernel software KVM in pure C (`evdev` &             
 `/dev/uinput`).
-* [Linux Usage Limit](https://github.com/Stup702/linux_usage_limit) — Zero-risk Linux process lockdown daemon with 41 unit tests.
+* [Linux Usage Limit](https://github.com/Stup702/linux_usage_limit) — Zero-risk Linux process lockdown daemon for parental controls. 
 * [Gnomish Note](https://github.com/Stup702/Gnomish-Note) — Native Wayland sticky note app for GNOME with Alt-Tab filtering.
 
 ---
