@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Animesh Barua Mugdha
 
-- 🚀 **Core Focus:** Low-level Linux systems programming, robotics, and desktop architecture.
+- 🚀 **Core Focus:** Low-level Linux systems programming, robotics, and computer architecture.
 - 👀 **Interests:** System Architecture, Linux Kernel plumbing, and building high-performance native tools.
 - 🌱 **Currently Exploring:** UNIX internals, 3d Designing, Advanced C++, Python and Applied Machine Learning.
 - 📫 **How to reach me:** NaN
